@@ -1,4 +1,4 @@
-- 👋 Hola,soy Jorge Revuelta
+- 👋 Hola, soy Jorge Revuelta
 - 👀 Estoy interesado en diseño gráfico, informática y videojuegos.
 - 🌱 Actualmente estudiando desarrollo web full stack.
 - 💞️ Buscando colaborar con nuevos e innovadores proyectos.
