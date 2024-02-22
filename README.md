@@ -31,7 +31,7 @@ Si mi perfil resuena contigo y crees que podemos crear algo grandioso juntos, no
 </div>
 
 <div align="left">
-    <h3>Mi stack tecnologico actual (y mejorando...):</h3>
+    <h3>Mi stack tecnologico actual en desarrollo web (y mejorando...):</h3>
     <div id="tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
