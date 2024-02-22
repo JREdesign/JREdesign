@@ -26,7 +26,7 @@ Si mi perfil resuena contigo y crees que podemos crear algo grandioso juntos, no
     <h3>Mi stack en diseño gráfico:</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp
         <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="IllustratorL" width="40" height="40"/>&nbsp
-        <img src="https://en.m.wikipedia.org/wiki/File:Adobe_InDesign_CC_icon.svg" title="InDesign" alt="inDesign" width="40" height="40"/>&nbsp
+
     
     <h3>Mi stack tecnologico actual (y mejorando...):</h3>
     <div id="tech">
