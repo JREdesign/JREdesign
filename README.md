@@ -1,5 +1,5 @@
 # 🚀 ¡Hola, comunidad de GitHub! 🚀
-Soy Jorge Revuelta Eugercios (JRE)
+**Soy Jorge Revuelta Eugercios (JRE)** 👋
 
 Bienvenidos a mi universo digital, un espacio donde la creatividad y la tecnología se entrelazan para dar vida a nuevas ideas. Soy un apasionado explorador del diseño gráfico, un campo donde los colores, las formas y las texturas se convierten en un lenguaje universal de expresión. Mi fascinación por la informática es el motor que impulsa mi curiosidad por entender y dominar las herramientas que están moldeando nuestro futuro. Además, me considero un entusiasta de los videojuegos, no solo como formas de entretenimiento, sino también como plataformas para la narrativa interactiva y el diseño de experiencias inmersivas.
 
