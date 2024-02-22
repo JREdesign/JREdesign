@@ -26,8 +26,10 @@ Si mi perfil resuena contigo y crees que podemos crear algo grandioso juntos, no
     <h3>Mi stack en diseño gráfico:</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp
         <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="IllustratorL" width="40" height="40"/>&nbsp
+        <img src="https://en.m.wikipedia.org/wiki/File:Adobe_InDesign_CC_icon.svg" title="InDesign" alt="inDesign" width="40" height="40"/>&nbsp
+</div>
 
-    
+<div align="left">
     <h3>Mi stack tecnologico actual (y mejorando...):</h3>
     <div id="tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -42,7 +44,6 @@ Si mi perfil resuena contigo y crees que podemos crear algo grandioso juntos, no
 
     </div>
 </div>
-
 <!---
 JREdesign/JREdesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
