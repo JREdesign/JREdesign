@@ -20,19 +20,26 @@ Si mi perfil resuena contigo y crees que podemos crear algo grandioso juntos, no
 
 ¡Gracias por visitar mi perfil! Sigue explorando, sigue creando y, sobre todo, sigue soñando en grande. 🌈
 
-Stack actual (y mejorando)
+
 
 <div align="left">
-    <h3>Current stack (will continue to increase and improve): :round_pushpin:</h3>
+    <h3>Mi stack en diseño gráfico:</h3>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="IllustratorL" width="40" height="40"/>&nbsp
+        <img src="https://en.m.wikipedia.org/wiki/File:Adobe_InDesign_CC_icon.svg" title="InDesign" alt="inDesign" width="40" height="40"/>&nbsp
+    
+    <h3>Mi stack tecnologico actual (y mejorando...):</h3>
     <div id="tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" **alt="Java" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="Vue" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" **alt="Java" width="40" height="40"/>
+        <img src="https://es.m.wikipedia.org/wiki/Archivo:A-Frame_logo.png" title="Aframe" **alt="Aframe" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>    
-        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Git" alt="Node.js" width="40" height="40"/>  
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>    
+
     </div>
 </div>
 
