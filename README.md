@@ -1,4 +1,5 @@
-# 🚀 #¡Hola, comunidad de GitHub! Soy Jorge Revuelta Eugercios (JRE)🚀
+# 🚀 ¡Hola, comunidad de GitHub! 🚀
+Soy Jorge Revuelta Eugercios (JRE)
 
 Bienvenidos a mi universo digital, un espacio donde la creatividad y la tecnología se entrelazan para dar vida a nuevas ideas. Soy un apasionado explorador del diseño gráfico, un campo donde los colores, las formas y las texturas se convierten en un lenguaje universal de expresión. Mi fascinación por la informática es el motor que impulsa mi curiosidad por entender y dominar las herramientas que están moldeando nuestro futuro. Además, me considero un entusiasta de los videojuegos, no solo como formas de entretenimiento, sino también como plataformas para la narrativa interactiva y el diseño de experiencias inmersivas.
 
@@ -14,7 +15,7 @@ Cada proyecto es una oportunidad para aprender algo nuevo, para desafiar mis lí
 
 Creo firmemente en el poder de la colaboración para generar impacto. Si estás trabajando en algo que desafía los límites de lo convencional, que busca innovar en el campo del diseño gráfico, el desarrollo web, o la creación de videojuegos, me encantaría ser parte de tu equipo. Juntos, podemos explorar nuevas fronteras tecnológicas y crear experiencias que resuenen con audiencias globales.
 
-📫 Conectemos 📫
+# 📫 Conectemos 📫
 
 Si mi perfil resuena contigo y crees que podemos crear algo grandioso juntos, no dudes en contactarme. Puedes enviarme un correo a jr.eugercios@gmail.com o simplemente conectarte conmigo aquí, en GitHub, donde estoy explorando nuevos proyectos. Estoy ansioso por escuchar sobre tu proyecto y explorar cómo podemos colaborar para transformar ideas en realidades impresionantes.
 
