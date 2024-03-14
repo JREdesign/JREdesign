@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JREdesign&label=Profile%20views&color=0e75b6&style=flat" alt="JREdesign" /> </p>
 ## 🚀 ¡Hola, comunidad de GitHub! 🚀
 **Soy Jorge Revuelta Eugercios (JRE)** 👋
 
