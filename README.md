@@ -1,27 +1,29 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JREdesign&label=Profile%20views&color=0e75b6&style=flat" alt="JREdesign" /> </p>
 
-🚀 ¡Hola, comunidad de GitHub! 🚀
+# 🚀 ¡Hola, comunidad de GitHub! 🚀
 
-Soy Jorge A. Revuelta Eugercios (JRE) 👋
+**Soy Jorge A. Revuelta Eugercios (JRE)** 👋
 
-Soy diseñador gráfico, junior en desarrollo web Full Stack y entusiasta de los videojuegos. Me apasiona la creación de experiencias digitales. 
-.
-🌟 Sobre Mi Viaje Profesional 🌟
+Soy diseñador gráfico, junior en desarrollo web Full Stack y entusiasta de los videojuegos. Me apasiona la creación de experiencias digitales.
+
+## 🌟 Sobre Mi Viaje Profesional 🌟
 
 Aunque vengo del mundo del diseño gráfico editorial, actualmente, me dedico al Desarrollo Web Full Stack, explorando en ocasiones tecnologías que combinan lo real y lo virtual para crear experiencias de usuario cautivadoras.
 
-🌱 Creciendo con Cada Línea de Código 🌱
+## 🌱 Creciendo con Cada Línea de Código 🌱
 
 Cada proyecto es una oportunidad para aprender, desafiarme y colaborar con mentes afines. Me interesan los proyectos innovadores que mejoren la vida de las personas.
 
-💞️ Colaboraciones 💞️
+## 💞️ Colaboraciones 💞️
 
 Creo en el poder de la colaboración para generar impacto. Si tienes un proyecto desafiante en diseño gráfico, desarrollo web, me encantaría ser parte de tu equipo para crear experiencias impactantes.
-📫 Conectemos 📫
 
-Si crees que podemos colaborar, contáctame en jr.eugercios@gmail.com o aquí en GitHub. 
+## 📫 Conectemos 📫
+
+Si crees que podemos colaborar, contáctame en jr.eugercios@gmail.com o aquí en GitHub.
 
 ¡Seguimos explorando y creando! 🌈
+
 
 <div align="left">
     <h3>Mi stack tecnologico actual en Diseño gráfico y desarrollo web (y mejorando...):</h3>
