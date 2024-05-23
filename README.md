@@ -43,8 +43,6 @@ Si crees que podemos colaborar, contáctame en jr.eugercios@gmail.com o aquí en
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>  
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/A-Frame_logo.png" title="Aframe" **alt="Aframe" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Docker" width="40" height="40"/>
-
-
     </div>
 <!---
 JREdesign/JREdesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
