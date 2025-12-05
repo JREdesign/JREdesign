@@ -2,7 +2,7 @@
 
 # 🚀 ¡Hola, comunidad de GitHub! 🚀
 
-**Soy Jorge A. Revuelta Eugercios (JRE)** 👋
+**Soy Jorge A. Revuelta Eugercios (JREdesign)** 👋
 
 Soy diseñador gráfico, junior en desarrollo web Full Stack y entusiasta de los videojuegos. Me apasiona la creación de experiencias digitales.
 
