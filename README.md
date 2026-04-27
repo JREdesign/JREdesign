@@ -26,9 +26,9 @@ Me interesan especialmente los proyectos donde el diseño y el código trabajan 
 
 - Aprendiendo y reforzando desarrollo web Full Stack, katas, aprendizaje y proyectos personales en mis repositorios.
 - Creando proyectos personales para mejorar mi portfolio técnico.
-- Explorando tecnologías frontend modernas como React, Next.js y Tailwind CSS, asi como la integración de flujos de trabajo con Inteligencia Artifical.
+- Explorando tecnologías frontend modernas como React, Next.js y Tailwind CSS.
 - Combinando diseño gráfico, UX/UI y programación para crear experiencias digitales más completas.
-- Probando herramientas de inteligencia artificial aplicadas al diseño, la creatividad y el desarrollo web.
+- Probando herramientas y flujos de trabajo de inteligencia artificial aplicadas al diseño, la creatividad y el desarrollo web.
 
 ---
 
